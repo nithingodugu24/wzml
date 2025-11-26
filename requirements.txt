@@ -39,7 +39,7 @@ speedtest-cli
 telegraph
 tenacity
 tgcrypto
-uvloop
+uvloop==0.17.0
 xattr
 yt-dlp
 pytz
