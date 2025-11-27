@@ -26,7 +26,7 @@ basicConfig(
     level=INFO,
 )
 
-# load_dotenv("config.env", override=True)
+load_dotenv("config.env", override=True)
 
 try:
     if bool(environ.get("_____REMOVE_THIS_LINE_____")):
